@@ -1,2 +1,2 @@
 # 4320intro
-Repo created for the first assignment in the class CS4320
+Repo created for the class CS4320
